@@ -1,7 +1,7 @@
 # WhiffElite
 
 ## Description
-WhiffElite is a hyperlocal clothing delivery platform that connects customers with nearby stores, enabling fast delivery within minutes based on location. It features role-based access for admins, customers, store owners, and delivery partners, with real-time order tracking, secure PayPal payments, and full product and order management—all built on a modern tech stack including React, Node.js, MongoDB, and Socket.IO.
+WhiffElite is a group project with **Aaditya Sambare** hyperlocal clothing delivery platform that connects customers with nearby stores, enabling fast delivery within minutes based on location. It features role-based access for admins, customers, store owners, and delivery partners, with real-time order tracking, secure PayPal payments, and full product and order management—all built on a modern tech stack including React, Node.js, MongoDB, and Socket.IO.
 
 ## Installation
 ```bash
